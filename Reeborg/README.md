@@ -1,7 +1,7 @@
 # 🐍 Reeborg's World - Python Challenges
 
 Welcome to my solutions for the **Reeborg's World** Python programming challenges! 🚀  
-This repo contains my implementations for the popular "Hurdles" challenges (Hurdle 2 to Hurdle 4) and more as I progress.
+This repo contains my implementations for the popular "Hurdles" challenges (Hurdle 1 to Hurdle 4) and more as I progress.
 
 ---
 
@@ -9,6 +9,7 @@ This repo contains my implementations for the popular "Hurdles" challenges (Hurd
 
 | Challenge | File Name    | Description                     |
 |-----------|--------------|---------------------------------|
+| Hurdle 1  | `hurdle1.py` | Basic jump over small hurdles   |
 | Hurdle 2  | `hurdle2.py` | Jump with variable spacing      |
 | Hurdle 3  | `hurdle3.py` | Higher hurdles, fixed spacing   |
 | Hurdle 4  | `hurdle4.py` | Highest hurdles, variable gaps  |
