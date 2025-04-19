@@ -32,7 +32,7 @@ Hangman/ ├── hangman.py # Main game logic
 
 ```bash
 python hangman.py
-
+```
 
 📌 To Do (Future Enhancements)
  - Add logic to warn: "You have already guessed this wrong letter."
